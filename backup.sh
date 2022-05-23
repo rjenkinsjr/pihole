@@ -49,7 +49,7 @@ mv blocklist* ..
 cd ..
 rm -rf temp
 echo 'Committing to GitHub...'
-git add blocklist
+git add .
 git commit -m "$(date)"
 git push
 echo 'Done.'
