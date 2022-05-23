@@ -3,7 +3,7 @@ cd $( cd -- "$( dirname -- "${BASH_SOURCE[0]:-$0}"; )" &> /dev/null && pwd 2> /d
 echo 'Extracting Pi-Hole config...'
 mkdir temp
 cd temp
-pihole -a -t
+/usr/local/bin/pihole -a -t
 TGZ=$(ls)
 tar xzf $TGZ
 rm -f $TGZ
@@ -50,7 +50,7 @@ mv blocklist* ..
 cd ..
 rm -rf temp
 echo 'Committing to GitHub...'
-git add .
-git commit -m "$(date)"
-git push
+/usr/bin/git add .
+/usr/bin/git commit -m "$(date)"
+/usr/bin/git push
 echo 'Done.'
