@@ -2152,6 +2152,16 @@
 0.0.0.0 clicktut.site
 0.0.0.0 secureaddisplay.com
 0.0.0.0 wiztube.xyz
+0.0.0.0 yourgodess.com
+0.0.0.0 www.quinni.cyou
+0.0.0.0 quinni.cyou
+0.0.0.0 www.alenai.cyou
+0.0.0.0 alenai.cyou
+0.0.0.0 telewizja-online.net
+0.0.0.0 bramka.org
+0.0.0.0 ustreamix.su
+0.0.0.0 inatv.pl
+0.0.0.0 tracking.minitool.com
 0.0.0.0 analytics.163.com
 0.0.0.0 crash.163.com
 0.0.0.0 crashlytics.163.com
@@ -3029,10 +3039,6 @@
 0.0.0.0 airpush.com
 0.0.0.0 api.airpush.com
 0.0.0.0 apportal.airpush.com
-0.0.0.0 pop-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
-0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 innovid.com.akadns.net
 0.0.0.0 ag.innovid.com.akadns.net
@@ -5118,7 +5124,6 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 hades.getsocial.im
 0.0.0.0 sdk.open.talk.getui.net
-0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 communicate.gimbal.com
 0.0.0.0 placebubble.gimbal.com
@@ -11314,7 +11319,6 @@
 0.0.0.0 paraskov.com
 0.0.0.0 parking.parklogic.com
 0.0.0.0 partners.xhamster.com
-0.0.0.0 pastie.org
 0.0.0.0 pay-per-search.com
 0.0.0.0 payn.me
 0.0.0.0 paypal-exchange.com
@@ -49994,7 +49998,3 @@
 0.0.0.0 www2.fertilitycenterlv.com
 0.0.0.0 www2.fieldturf.com
 0.0.0.0 www2.financeit.io
-0.0.0.0 www2.firstconnect.co.jp
-0.0.0.0 www2.fishstewip.com
-0.0.0.0 www2.flandersscientific.com
-0.0.0.0 www2.flexjet.com
