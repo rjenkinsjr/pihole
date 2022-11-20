@@ -2171,6 +2171,8 @@
 0.0.0.0 vawardquac.com
 0.0.0.0 lemmingro.com
 0.0.0.0 flashrewards.co
+0.0.0.0 info-eastflirts.com
+0.0.0.0 www.info-eastflirts.com
 0.0.0.0 analytics.163.com
 0.0.0.0 crash.163.com
 0.0.0.0 crashlytics.163.com
@@ -4266,8 +4268,6 @@
 0.0.0.0 monetize-api.coronalabs.com
 0.0.0.0 stats.coronalabs.com
 0.0.0.0 count.ly
-0.0.0.0 static.cloud.coveo.com
-0.0.0.0 cloudplatform.coveo.com
 0.0.0.0 smetrics.cox.com
 0.0.0.0 cpmstar.com
 0.0.0.0 cdne.cpmstar.com
